@@ -4,4 +4,4 @@
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */
 
-// You can delete this file if you're not using it
+// use Gatsby’s server-side rendering APIs to customize default settings affecting server-side rendering
